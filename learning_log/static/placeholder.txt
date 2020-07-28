@@ -1,0 +1,1 @@
+this file ensure that learning/static/ will be added to the project.
